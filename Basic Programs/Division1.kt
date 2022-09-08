@@ -2,7 +2,7 @@
 
 /**
  * Wap to calculate and display the division of two numbers on the console screen.
- * Where, num1 = 225 and num2 = 15
+ * Where, num1 = 225 and num2 = 17
  * Date: Thu, 08 Sep, 2022
  * @author: ANKUR SAXENA
  * Platform: Linux Ubuntu 22.04/Lts/x64/Kotlin 1.7.10/VS Code
