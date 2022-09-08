@@ -18,7 +18,7 @@ fun divOfTwoNo1(){
     println ("Second number is = ${num2}")
 
     // calculating division
-    var divisionResult : Double = num1.toDouble() / num2.toDouble()
+    var divisionResult : Double = num1.toDouble() / num2.toDouble() // type casting or type conversion
 
     // printing result
     println ("The division of ${num1} and ${num2} is = ${divisionResult}")
