@@ -1,3 +1,5 @@
+// MultiplicationTable1.kt
+
 /**
  * Wap to display the multiplication table of 15 on the console screen.
  * Date: Sat, 10 Sep, 2022
