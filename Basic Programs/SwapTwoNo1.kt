@@ -2,6 +2,7 @@
 
 /**
  * Wap to swap two numbers using third variable.
+ * Where, num1 = 20 and num2 = 30
  * Date: Sat, 10 Sep, 2022
  * @author: ANKUR SAXENA
  * Platform: Linux Ubuntu 22.04/Lts/x64/Kotlin 1.7.10/VS Code
