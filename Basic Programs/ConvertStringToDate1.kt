@@ -15,7 +15,6 @@ import java.util.Locale
 // creating function
 fun convertStringDate1(){
 
-    // format DD Month, YYYY
     val string = "11 September, 2022"
     val formatter = DateTimeFormatter.ofPattern ("d MMMM, yyyy", Locale.ENGLISH)
 
