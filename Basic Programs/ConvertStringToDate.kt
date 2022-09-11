@@ -4,7 +4,7 @@
  * Wap to convert String to Date.
  * Date: Sun, 11 Sep, 2022
  * @author: ANKUR SAXENA
- * Platform: Linux Ubuntu 22.04/Lts/x64/Kotlin 1.7.0/VS Code
+ * Platform: Linux Ubuntu 22.04/Lts/x64/Kotlin 1.7.10/VS Code
  */
 
 // convert string to date using predefined formatters
