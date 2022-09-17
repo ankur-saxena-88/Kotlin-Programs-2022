@@ -21,7 +21,7 @@ fun findAverage1(){
     val addition = num1 + num2 + num3
 
     // compute average
-    val average : Double = (addition/3).toDouble()
+    val average : Double = ((addition.toDouble())/3).toDouble()
 
     // printing values
     println ("First number is : ${num1}")
