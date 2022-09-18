@@ -1,6 +1,5 @@
 
-
-import kotlin.reflect.typeOf// FindAsciiValue.kt
+// FindAsciiValue.kt
 
 /**
  * Write a kotlin program to find the ASCII value of a character.
