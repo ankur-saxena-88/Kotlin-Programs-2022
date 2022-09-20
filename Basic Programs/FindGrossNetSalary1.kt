@@ -1,7 +1,7 @@
 // FindGrossNetSalary1.kt
 
 /**
- * Write a Kotlin program to calculate the gross salary of an employee.
+ * Write a Kotlin program to calculate the gross salary and net salary of an employee.
  * Where, basic salary = INR. 70000, Hra = 30%, Da = 25% Pf = 30% and Lta = 20%
  * Formula: Gross salary = basic salary + Hra + Da + Lta
  * Fromula: Net salary = Gross salary - Pf
